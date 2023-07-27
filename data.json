@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nombre": "Creatina",
+        "precio": 17766,
+        "cantidad": 1,
+        "img": "./img/creatina.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Proteina",
+        "precio": 24999,
+        "cantidad": 1,
+        "img": "./img/proteina.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Ganador de Peso",
+        "precio": 10555,
+        "cantidad": 1,
+        "img": "./img/ganadordepeso.png"
+    }
+]
